@@ -3,5 +3,5 @@
 UI Screens for the given Designs are shown below 
 
 # Screenshots!
-![Home Screen](./lib/screenshots/1.jpeg)
-![Widget](./lib/screenshots/2.jpeg)
+![Home Screen](https://github.com/GirijaSoni/Qc4application/blob/master/lib/Screenshots/1.jpeg)
+![Widget](https://github.com/GirijaSoni/Qc4application/blob/master/lib/Screenshots/2.jpeg)
